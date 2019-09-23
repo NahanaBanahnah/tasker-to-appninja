@@ -40,6 +40,7 @@ This will flash the cords on the screen to ensure they were received. You can sk
 
 
 **Full Task**
+
 ![Full Task](/img/full_task.png)
 
 
