@@ -21,7 +21,7 @@ Tasker Setup for Instant TP on Copy
 * Set **Target** to Serive
 * Under **If** Click + to Add an If
  * Set the first empty line to %clip
- * Click the **~** and select RegEdit from the Popup **~** should change to **~R**
+ * Click the **~** and select **Matches Regex** from the Popup **~** should change to **~R**
  * Set the second empy to line ^[-+]?([1-8]?\d(.\d+)?|90(.0+)?),\s*[-+]?(180(.0+)?|((1[0-7]\d)|([1-9]?\d))(.\d+)?)$
  
 #### Action 4 - Flash - Optional
