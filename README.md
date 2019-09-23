@@ -6,7 +6,7 @@ Tasker Setup for Instant TP on Copy
 * Give it a name
 * In **Task Edit** Again Click + Button to add an Action
 
-#### Action 1 - Variable Set
+#### Action 1 - Variable Set - Test
 * Set **Name** to %clip
 * Set **To** to %CLIP
 
