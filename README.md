@@ -2,7 +2,7 @@
 Tasker Setup for Instant TP on Copy
 
 ### Part 1 - The Task
-* Under Tasks Cick the + Button to start a new task
+* Under Tasks Click the + Button to start a new task
 * Give it a name
 * In **Task Edit** Again Click + Button to add an Action
 
