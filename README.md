@@ -1,5 +1,5 @@
 # Tasker To AppNinja
-Tasker Setup for Instant TP on Copy
+Tasker Setup for Instant TP on Coping Cords. 
 
 ### Part 1 - The Task
 * Under Tasks Click the + Button to start a new task
@@ -53,6 +53,7 @@ This will flash the cords on the screen to ensure they were received. You can sk
 * Attach the Process to the Task created above 
 
 ### Taking It Further - PC To Phone Clipboard
+This will allow you to copy cords on your PC and send, then instant teleport on your phone.
 * [Add To Chrome](https://chrome.google.com/webstore/detail/clipbrd-beta/febnkhppinonnjgfjdigiipdajophkkk)
 * Then [Get On The PlayStore](https://play.google.com/store/apps/details?id=com.clipbrd&hl=en_US)
 
