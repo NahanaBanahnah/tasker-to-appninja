@@ -10,6 +10,8 @@ Tasker Setup for Instant TP on Copy
 * Set **Name** to %clip
 * Set **To** to %CLIP
 
+![Step One](../img/1.png)
+
 #### Action 2 - Variable Split
 * Set **Name** to %clip
 * Set **Spliter** to ,
@@ -36,6 +38,7 @@ This will flash the cords on the screen to ensure they were received. You can sk
 * Use **Variable Set**
  * In the Edit Event for Variable Set set **Variable** to %CLIP
 * Attach the Process to the Task created above 
+
 
 
 
