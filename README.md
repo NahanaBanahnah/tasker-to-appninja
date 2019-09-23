@@ -8,7 +8,7 @@ Tasker Setup for Instant TP on Copy
 
 #### Action 1 - Variable Set
 * Set **Name** to %clip
-* Set **To* to %CLIP
+* Set **To** to %CLIP
 
 #### Action 2 - Variable Split
 * Set **Name** to %clip
