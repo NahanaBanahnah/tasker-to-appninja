@@ -1,7 +1,7 @@
 # Tasker To AppNinja
 Tasker Setup for Instant TP on Copy
 
-###Part 1 - The Task
+### Part 1 - The Task
 * Under Tasks Cick the + Button to start a new task
 * Give it a name
 * In **Task Edit** Again Click + Button to add an Action
@@ -29,7 +29,7 @@ This will flash the cords on the screen to ensure they were received. You can sk
 * Set **Text** To %clip
 * Repeat the steps in **Action 3** for setting the If
 
-###Part 2 - The Profile
+### Part 2 - The Profile
 * Under Profiles Click + Button to add a profile
 * Give it a name
 * Select **Event**
